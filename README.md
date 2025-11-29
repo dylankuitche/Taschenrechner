@@ -21,12 +21,6 @@ Die App wurde mit **Java Swing** erstellt, ist leicht verständlich, modular auf
 
 ---
 
-## 🛠 Projektstruktur
-
-Das Projekt ist in **mehrere Klassen** aufgeteilt, um Übersichtlichkeit und Wartbarkeit zu sichern:
-
----
-
 ## 📘 Technologien
 
 - **Java 17+**  
