@@ -73,15 +73,6 @@ Enthält die vier mathematischen Methoden:
 
 ---
 
-## 🖼 Beispielansicht (Platzhalter)
-
-Du kannst hier später einen Screenshot deiner GUI einfügen:
-
-
-```
-
----
-
 ## 🎯 Lernziele des Projekts
 
 Dieses Projekt ist ideal, um:
