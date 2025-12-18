@@ -79,15 +79,7 @@ Dieses Projekt ist ideal, um:
 
 ---
 
-## 📄 Lizenz
+## 🖼 Screenshot 
 
-Dieses Projekt darf frei genutzt, verändert und für Bewerbungen oder Lernzwecke eingesetzt werden.
+<img width="686" height="530" alt="Capture d&#39;écran 2025-12-18 135202" src="https://github.com/user-attachments/assets/fb03821d-a60d-49ec-b294-d307686f0316" />
 
-
----
-
-## ⭐ Unterstützung
-
-Wenn dir dieses Projekt gefällt, gib dem Repository gerne einen **⭐ Stern**!
-
-```
